@@ -17,6 +17,6 @@ public class firstMain {
             default:
                 System.out.println("brak danych");
         }
-
+        System.out.println("Pierwszy commit po wgraniu na serwer");
     }
 }
